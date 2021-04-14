@@ -1,0 +1,56 @@
+.row-header{
+	margin: 0px auto;
+	padding : 0px auto;
+}
+
+.row-content {
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+}
+.footer {
+	background-color: #D1C4E9;
+	margin: 0px auto;
+	padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+	padding: 70px 30px 70px 30px;
+	margin: 0px auto;
+	background: #9575CD;
+	color: floralwhite;
+	    border-radius: inherit;
+
+}
+
+.address{
+	font-size: 80%;
+	margin: 0px ;
+	color: #0f0f0f;
+}
+
+.radio-button {
+	margin-right: 12px;
+}
+.footer-button {
+    margin-top: 2%;
+    margin-left: 27%;
+}
+nav {
+   /* padding: 12px;*/
+    background-color: #5133A5;
+  /* color: floralwhite;*/
+
+ }
+ .a-color{
+ 	  color: floralwhite;
+ }
+ .login-footer {
+    margin-left: 77%;
+    margin-bottom: 11px;
+}
+.modal-input{
+	border: none;
+    background-color: white;
+}
